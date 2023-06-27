@@ -1,0 +1,13 @@
+ul li {
+    color: white;
+    margin-left: 15px;
+    padding: 0;
+}
+
+/* ul li a, */
+ul li a:hover
+ {
+    background: linear-gradient(45deg, rgba(12, 204, 41, 0.584), #3cf);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
