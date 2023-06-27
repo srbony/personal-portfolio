@@ -15,7 +15,7 @@ const Project = ({ project, setModalData }) => {
             <div class="relative mb-4 rounded-2xl">
 
                 <img class="max-h-80 rounded-2xl  w-full object-cover transition-transform duration-300 transform hover:bg-gray-800 group-hover:scale-105" src={img} alt="" />
-
+{/* <h2>heading</h2> */}
                 <div class=" bg-gray-900 bg-opacity-80 z-10 absolute top-0 left-0 w-full h-full text-white rounded-2xl opacity-0 transition-all duration-300 transform group-hover:scale-105  group-hover:opacity-100" href="#" target="_blank" rel="noopener noreferrer">
 
 
